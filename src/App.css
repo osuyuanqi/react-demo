@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.ft {
+  color: green;
+}
+.joke-card{
+  background-color: aqua;
+}
